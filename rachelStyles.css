@@ -1,0 +1,51 @@
+/* 
+{
+    font-family: "Courier Prime", monospace;
+}
+
+body {
+    margin: auto;
+}
+div {
+    width: 80%;
+    margin: 0 auto;
+}
+/* .aussiePuppy {
+    border: 5px outset red;
+    background-image: url("https://img1.wsimg.com/isteam/ip/38090f50-6501-48c9-86c7-5644e7d8961f/Comet_Aussiedoodle_puppy_Lacey_6_weeks_3.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1300,h:800");
+    text-align: center; */
+
+h1 {
+    background-color: teal;
+    color: white;
+    padding: 40px;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-left: auto;
+}
+
+h3 {
+    margin-left: center;
+    text-align: center;
+}
+
+img {
+    height: 225px;
+    border: 5px solid black;
+    margin-left: auto;
+    margin-right: center
+}
+
+p {
+    text-align: center;
+    margin-left: center;
+}
+
+h5 {
+    margin-left: center;
+    text-align: center;
+}
