@@ -19,33 +19,40 @@ h1 {
     background-color: teal;
     color: white;
     padding: 40px;
-    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
 }
 
 h2 {
+    width: 100%;
     text-align: center;
-    margin-left: auto;
 }
 
 h3 {
+    width:100%;
     margin-left: center;
     text-align: center;
 }
 
 img {
+    display: block;
     height: 225px;
     border: 5px solid black;
     margin-left: auto;
-    margin-right: center
+    margin-right: auto;
 }
 
 p {
+    width: 100%;
     text-align: center;
-    margin-left: center;
+  }
+h4{ 
+    width: 100%;
+    text-align: center;
 }
-
 h5 {
-    margin-left: center;
+    width: 100%;
+    margin-left: auto;
     text-align: center;
 }
